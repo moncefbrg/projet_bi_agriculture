@@ -1,0 +1,16 @@
+id_station,code_station,nom_station,ville,zone_geo,altitude,capteur_type,latitude,longitude
+1,STN_HAO_001,Station Haouz 1,Marrakech,Haouz,402,Analogique,32.8029,-7.072
+2,STN_HAO_002,Station Haouz 2,Marrakech,Haouz,488,Digital,29.6241,-9.376
+3,STN_HAO_003,Station Haouz 3,Marrakech,Haouz,374,Digital,32.4647,-7.5955
+4,STN_GHA_001,Station Gharb 1,Kenitra,Gharb,180,Analogique,29.2256,-7.112
+5,STN_GHA_002,Station Gharb 2,Kenitra,Gharb,87,Analogique,29.7273,-9.2664
+6,STN_GHA_003,Station Gharb 3,Kenitra,Gharb,107,Analogique,29.0283,-9.9078
+7,STN_SOU_001,Station Souss-Massa 1,Agadir,Souss-Massa,158,Digital,29.558,-8.8314
+8,STN_SOU_002,Station Souss-Massa 2,Agadir,Souss-Massa,370,Analogique,29.3624,-7.5265
+9,STN_SOU_003,Station Souss-Massa 3,Agadir,Souss-Massa,154,Analogique,31.3697,-9.8142
+10,STN_ORI_001,Station Oriental 1,Oujda,Oriental,450,Digital,29.6821,-9.7398
+11,STN_ORI_002,Station Oriental 2,Oujda,Oriental,531,Digital,32.8625,-6.7664
+12,STN_ORI_003,Station Oriental 3,Oujda,Oriental,408,Analogique,29.3907,-7.2631
+13,STN_TAD_001,Station Tadla 1,Béni Mellal,Tadla,310,Analogique,29.4882,-8.0193
+14,STN_TAD_002,Station Tadla 2,Béni Mellal,Tadla,374,Digital,32.6373,-8.9649
+15,STN_TAD_003,Station Tadla 3,Béni Mellal,Tadla,303,Analogique,30.2468,-7.9197

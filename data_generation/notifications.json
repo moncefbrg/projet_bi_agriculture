@@ -1,0 +1,3602 @@
+[
+  {
+    "date": "2024-06-01",
+    "station_code": 1,
+    "precip_mm": 1.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.60530253322267mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 1,
+    "precip_mm": 2.3,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 2.270916742340422mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 1,
+    "precip_mm": 3.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.598476672687072mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 1,
+    "precip_mm": 1.1,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.0979244249692064mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 1,
+    "precip_mm": 0.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.5672121974027949mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 1,
+    "precip_mm": 10.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 10.930215653263982mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 1,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 2,
+    "precip_mm": 0.1,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.11165031643367379mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 2,
+    "precip_mm": 4.0,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.9731617824291443mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 2,
+    "precip_mm": 15.4,
+    "type_precip": "Pluie",
+    "severity_index": "Jaune",
+    "alert_msg": "Alerte Jaune: 15.398275688922505mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 2,
+    "precip_mm": 2.2,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 2.1860913784670535mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 2,
+    "precip_mm": 15.1,
+    "type_precip": "Pluie",
+    "severity_index": "Jaune",
+    "alert_msg": "Alerte Jaune: 15.057010278533955mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 2,
+    "precip_mm": 8.7,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 8.67606947397171mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 2,
+    "precip_mm": 4.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 4.81616159922906mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 2,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 3,
+    "precip_mm": 1.0,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.0031152080182277mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 3,
+    "precip_mm": 4.1,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 4.124318385750855mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 3,
+    "precip_mm": 4.5,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 4.466827895680233mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 3,
+    "precip_mm": 12.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 12.842743507672008mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 3,
+    "precip_mm": 0.4,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.42544096067978404mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 3,
+    "precip_mm": 1.1,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.0564225928101827mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 3,
+    "precip_mm": 2.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 2.845591214824358mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 3,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 3,
+    "precip_mm": 3.2,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.185402877345716mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 4,
+    "precip_mm": 0.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.8299405864241709mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 4,
+    "precip_mm": 3.3,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.2598922841210625mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 4,
+    "precip_mm": 14.5,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 14.4940714644947mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 4,
+    "precip_mm": 3.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.9421332849268875mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 4,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 5,
+    "precip_mm": 0.1,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.07778901198594272mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 5,
+    "precip_mm": 6.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 6.5533258557644505mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 5,
+    "precip_mm": 1.7,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.74334652498814mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 5,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 6,
+    "precip_mm": 11.7,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 11.730051843785496mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 6,
+    "precip_mm": 14.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 14.915463170172341mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 6,
+    "precip_mm": 6.3,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 6.313212511254034mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 6,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 7,
+    "precip_mm": 5.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 5.943439374309037mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 7,
+    "precip_mm": 0.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.9481674548951338mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 7,
+    "precip_mm": 7.1,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 7.061298608656664mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 7,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 8,
+    "precip_mm": 0.3,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.2928623950863603mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 8,
+    "precip_mm": 30.6,
+    "type_precip": "Pluie",
+    "severity_index": "Orange",
+    "alert_msg": "Alerte Orange: 30.620907419237344mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 8,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 8,
+    "precip_mm": 1.7,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.7464426887757818mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 9,
+    "precip_mm": 24.2,
+    "type_precip": "Pluie",
+    "severity_index": "Jaune",
+    "alert_msg": "Alerte Jaune: 24.207537485569492mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 9,
+    "precip_mm": 2.0,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 2.011715839137795mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 9,
+    "precip_mm": 2.5,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 2.4574194097573936mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 9,
+    "precip_mm": 0.3,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.34517557585529846mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 9,
+    "precip_mm": 1.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.8936670844789187mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 9,
+    "precip_mm": 9.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 9.86113774566874mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 9,
+    "precip_mm": 6.4,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 6.413599149314174mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 9,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 10,
+    "precip_mm": 5.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 5.756718669889165mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 10,
+    "precip_mm": 1.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.7567473724906237mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 10,
+    "precip_mm": 0.5,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.5365028396582137mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 10,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 11,
+    "precip_mm": 0.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.6199700157355897mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 11,
+    "precip_mm": 10.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 10.605190618914373mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 11,
+    "precip_mm": 3.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.6439398994697787mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 11,
+    "precip_mm": 0.5,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.5173693951305857mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 11,
+    "precip_mm": 0.3,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.2539749629238191mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 11,
+    "precip_mm": 5.0,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 5.020719027891426mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 11,
+    "precip_mm": 2.0,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.9833903288691126mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 11,
+    "precip_mm": 2.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 2.8895913222918908mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 11,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 11,
+    "precip_mm": 1.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.854182343287496mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 12,
+    "precip_mm": 14.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 14.82827890134285mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 12,
+    "precip_mm": 3.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.9109784974998836mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 12,
+    "precip_mm": 3.7,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.7083136747676155mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 12,
+    "precip_mm": 0.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.5916058863092262mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 12,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 13,
+    "precip_mm": 8.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 8.643332417982474mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 13,
+    "precip_mm": 13.1,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 13.135752924073547mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 13,
+    "precip_mm": 0.4,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.35397691948039833mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 13,
+    "precip_mm": 17.1,
+    "type_precip": "Pluie",
+    "severity_index": "Jaune",
+    "alert_msg": "Alerte Jaune: 17.14343939038704mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 13,
+    "precip_mm": 0.2,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.18794728832471466mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 13,
+    "precip_mm": 8.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 8.787356896635472mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 13,
+    "precip_mm": 2.4,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 2.4429069962389858mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 13,
+    "precip_mm": 1.5,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.5026424517320727mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 13,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 13,
+    "precip_mm": 3.6,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.5556672498640522mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 14,
+    "precip_mm": 1.5,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 1.502255603663865mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 14,
+    "precip_mm": 2.7,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 2.697208790897567mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 14,
+    "precip_mm": 4.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 4.830421076293018mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 14,
+    "precip_mm": 16.8,
+    "type_precip": "Pluie",
+    "severity_index": "Jaune",
+    "alert_msg": "Alerte Jaune: 16.831843960200395mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 14,
+    "precip_mm": 7.8,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 7.750153244540825mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 14,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-01",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-02",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-03",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-04",
+    "station_code": 15,
+    "precip_mm": 7.4,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 7.386410516590694mm de pluie"
+  },
+  {
+    "date": "2024-06-05",
+    "station_code": 15,
+    "precip_mm": 4.0,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 4.01247912153182mm de pluie"
+  },
+  {
+    "date": "2024-06-06",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-07",
+    "station_code": 15,
+    "precip_mm": 2.9,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 2.872880532780278mm de pluie"
+  },
+  {
+    "date": "2024-06-08",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-09",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-10",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-11",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-12",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-13",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-14",
+    "station_code": 15,
+    "precip_mm": 0.5,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0.5122058941703901mm de pluie"
+  },
+  {
+    "date": "2024-06-15",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-16",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-17",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-18",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-19",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-20",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-21",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-22",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-23",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-24",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-25",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-26",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-27",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-28",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  },
+  {
+    "date": "2024-06-29",
+    "station_code": 15,
+    "precip_mm": 3.2,
+    "type_precip": "Pluie",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 3.2425904806298083mm de pluie"
+  },
+  {
+    "date": "2024-06-30",
+    "station_code": 15,
+    "precip_mm": 0,
+    "type_precip": "Aucune",
+    "severity_index": "RAS",
+    "alert_msg": "Alerte RAS: 0mm de pluie"
+  }
+]

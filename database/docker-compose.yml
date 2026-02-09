@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: agriculture_dw
+    environment:
+      POSTGRES_DB: agriculture_dw
+      POSTGRES_USER: bi_user
+      POSTGRES_PASSWORD: bi_password
+      POSTGRES_INITDB_ARGS: "--encoding=UTF8 --locale=C"
+      TZ: "Africa/Casablanca"
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ../data_generation:/docker_data  # Volume partagé pour les données
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bi_user -d agriculture_dw"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  python:
+    build:
+      context: ..                   # Remonte au dossier racine
+      dockerfile: database/Dockerfile
+    container_name: python_etl
+    environment:
+      DB_HOST: "postgres"           # Nom du service, pas localhost!
+      DB_PORT: "5432"
+      DB_NAME: "agriculture_dw"
+      DB_USER: "bi_user"
+      DB_PASSWORD: "bi_password"
+    depends_on:
+      postgres:
+        condition: service_healthy  # Attend que PostgreSQL soit prêt
+    volumes:
+      - ../etl:/etl                 # Code ETL
+      - ../data_generation:/data    # Données dans /data du conteneur
+      - ../data_generation:/etl/data  # Doublon pour compatibilité
+    restart: unless-stopped
+    command: ["sleep", "infinity"]  # Garde le conteneur actif
+
+volumes:
+  postgres_data:

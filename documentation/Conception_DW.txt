@@ -1,0 +1,35 @@
+# CONCEPTION DU DATA WAREHOUSE
+# Schéma en Étoile - Agriculture Résilience 2030
+
+┌─────────────────┐     ┌──────────────────────────────┐     ┌─────────────────┐
+│   dim_temps     │     │  fait_releves_climatiques    │     │   dim_station   │
+├─────────────────┤     ├──────────────────────────────┤     ├─────────────────┤
+│ id_temps (PK)   │◄────┤ id_temps (FK)                │────►│ id_station (PK) │
+│ date_complete   │     │ id_station (FK)              │     │ code_station    │
+│ annee           │     │ id_alerte (FK)               │     │ nom_station     │
+│ mois            │     │ id_region (FK)               │     │ ville           │
+│ jour            │     │                              │     │ zone_geo        │
+│ trimestre       │     │ -- Mesures brutes            │     │ altitude        │
+│ saison          │     │ temperature_max              │     │ capteur_type    │
+└─────────────────┘     │ humidite_moyenne             │     └─────────────────┘
+                        │ precipitations_jour          │
+           ▲            │                              │              ▲
+           │            │ -- KPIs calculés             │              │
+           │            │ idhc_30j                     │              │
+           │            │ jours_sans_pluie             │     ┌─────────────────┐
+           │            │ score_risque                 │     │   dim_region    │
+           │            │ niveau_stress_hydrique       │     ├─────────────────┤
+           │            │ flag_alerte_temperature      │     │ id_region (PK)  │
+           │            └──────────────────────────────┘     │ zone_geo        │
+           │                                      ▲          │ region_admin    │
+           │                                      │          │ superficie_ha   │
+           │                            ┌─────────┴──────────┤                 │
+           │                            │                    │                 │
+           │                    ┌─────────────────┐          │                 │
+           │                    │   dim_alerte    │          │                 │
+           │                    ├─────────────────┤          │                 │
+           └───────────────────►│ id_alerte (PK)  │          │                 │
+                                │ type_precip     │          │                 │
+                                │ severity_index  │          │                 │
+                                │ niveau_urgence  │          │                 │
+                                └─────────────────┘          └─────────────────┘

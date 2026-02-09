@@ -1,0 +1,25 @@
+projet_bi_agriculture/
+│
+├── 📁 documentation/
+│   ├── 📄 Document_d_analyse.pdf          # J1
+│   └── 📄 Conception_DW.pdf               # J2
+│
+├── 📁 data_generation/                    # J3
+│   ├── 📄 generate_data_fixed.py          # Script corrigé
+│   ├── 📄 stations_master.xlsx            # Généré
+│   ├── 📄 relevés_meteo.csv               # Généré
+│   └── 📄 notifications.json              # Généré
+│
+├── 📁 database/                           # J4
+│   ├── 📄 docker-compose.yml              # PostgreSQL 16
+│   ├── 📄 DockerFile
+│   ├── 📄 init.sql                        # Schéma DW complet
+│   ├── 📄 check_pg16.sh                   # Vérification
+│   └── 📄 sample_queries.sql              # Requêtes KPIs
+│
+├── 📁 etl/                                # J5
+│   ├── 📄 etl_pipeline.py                 # Pipeline ETL
+│   ├── 📄 requirements.txt                # Dépendances
+│   └── 📄 etl_mapping_document.md         # Documentation ETL
+│
+└── 📄 README.md                           # Instructions complètes
